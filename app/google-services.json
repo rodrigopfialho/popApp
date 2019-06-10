@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "669670235351",
+    "firebase_url": "https://popmovies-f080b.firebaseio.com",
+    "project_id": "popmovies-f080b",
+    "storage_bucket": "popmovies-f080b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:669670235351:android:870cf3aad3732bae",
+        "android_client_info": {
+          "package_name": "com.example.popmovies"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "669670235351-9s7jlt07l4fo31trpinp2198u2h4tgea.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.popmovies",
+            "certificate_hash": "3f00c1f4406c4fe32a82879ad4a11fe4b7d51b42"
+          }
+        },
+        {
+          "client_id": "669670235351-6knf3slerob5fkqbfc780krjmv86o0fb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbBHsC_7P-1o1SvyyfSY8yzFfMBQo2k8w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "669670235351-6knf3slerob5fkqbfc780krjmv86o0fb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
